@@ -1,1 +1,2 @@
-------访问config-dev.yml ----123456---
+config:
+  info: config-dev.1.0-add-sucess
